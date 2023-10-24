@@ -1,3 +1,5 @@
+Estas son las clases que plantean las posibles soluciones a las pruebas:
+
 Object subclass: #AlgoTek
 	instanceVariableNames: 'lista_artistas lista_ubicaciones'
 	classVariableNames: ''
