@@ -1,3 +1,6 @@
+Estas son las pruebas que se debian pasar: 
+
+
 TestCase subclass: #AlgoTekTest
 	instanceVariableNames: 'precision'
 	classVariableNames: ''
